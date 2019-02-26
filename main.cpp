@@ -1,4 +1,5 @@
 #include "sdt.h"
+//Programm for education
  int main()
  {
  int a, b;
@@ -6,6 +7,6 @@
  cin >> a >> b;
  cout << "A  = " << a  << '\n';
  cout << "B  = " << b  << '\n';
- cout<< "A - B = " << a - b << '\n'
+ cout<< "A - B = " << a - b << '\n' ;
  return 0; }
 
